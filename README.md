@@ -8,6 +8,7 @@ Simple pyhton file to extract all wifi saved passwords from your pc.
 $ git clone https://github.com/aryuokk/Wifi_Spyder
 $ cd Wifi_Spyder 
 # Fork This Repo
+# Make sure to run in admin mode
 $ python spyder_wifi.py
 ```
 - Thats all Thanks 
